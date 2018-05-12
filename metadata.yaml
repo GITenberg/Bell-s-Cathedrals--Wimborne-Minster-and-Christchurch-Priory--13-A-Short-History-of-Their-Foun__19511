@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '8708'
     url: http://www.gutenberg.org/2009/agents/8708
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19511#Bell-s-Cathedrals--Wimborne-Minster-and-Christchurch-Priory--13-A-Short-History-of-Their-Foun_
 gutenberg_bookshelf:
 - United Kingdom
 - Architecture
