@@ -1,0 +1,33 @@
+_repo: Bell-s-Cathedrals--Wimborne-Minster-and-Christchurch-Priory--13-A-Short-History-of-Their-Foun__19511
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Perkins, Thomas, Rev.
+    alias: Perkins, T. (Thomas) Rev.
+    birthdate: 1842
+    deathdate: 1907
+    gutenberg_agent_id: '8708'
+    url: http://www.gutenberg.org/2009/agents/8708
+description: ''
+gutenberg_bookshelf:
+- United Kingdom
+- Architecture
+gutenberg_issued: '2006-10-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19511'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christ Church Priory (Canterbury, England)'
+- !lcsh 'Churches -- England'
+- !lcc 'NA'
+- !lcsh 'Wimborne Minster (England)'
+title: "Bell's Cathedrals: Wimborne Minster and Christchurch Priory\r\nA Short History\
+  \ of Their Foundation and a Description of Their Buildings"
+url: http://www.gutenberg.org/ebooks/19511
